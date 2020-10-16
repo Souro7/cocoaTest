@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-cocoaDemo/Pods-cocoaDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/EddystoneScanner/EddystoneScanner.framework
+${PODS_ROOT}/NearBee/NearBee/NearBee.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

@@ -1,0 +1,28 @@
+PODS:
+  - EddystoneScanner (1.2.13)
+  - NearBee (3.2.1):
+    - EddystoneScanner
+    - Socket.IO-Client-Swift
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - NearBee (= 3.2.1)
+
+SPEC REPOS:
+  trunk:
+    - EddystoneScanner
+    - NearBee
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  EddystoneScanner: bc26bd709596e46bd304d536d0b26f2850269d16
+  NearBee: 9c5486e75887253d696b5395be35184ed19581bb
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 5069fc8a61dd42265f9cd776f3e5338284f855a4
+
+COCOAPODS: 1.9.0
